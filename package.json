@@ -1,28 +1,27 @@
 {
-  "name": "material-palenight-theme",
-  "publisher": "whizkydee",
-  "author": "Olaolu Olawuyi <mrolaolu@gmail.com> (http://twitter.com/mrolaolu)",
-  "displayName": "Palenight Theme",
-  "version": "2.0.1",
-  "description": "An elegant and juicy material-inspired theme for Visual Studio Code.",
+  "name": "swnb-material-palenight-theme",
+  "publisher": "swnb",
+  "author": "Swnb <swnblovego@gmail.com>",
+  "displayName": "Swnb PaleNight Theme",
+  "version": "0.1.0",
+  "description": "An theme for Visual Studio Code",
   "galleryBanner": {
     "color": "#31364A",
     "theme": "dark"
   },
-  "icon": "icon.png",
   "keywords": [
     "material theme",
-    "palenight",
+    "paleNight",
     "material",
     "purple",
     "dark"
   ],
   "repository": {
-    "url": "https://github.com/whizkydee/vscode-palenight-theme",
+    "url": "https://github.com/swnb/vscode-palenight-theme",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/whizkydee/vscode-palenight-theme/issues"
+    "url": "https://github.com/swnb/vscode-palenight-theme/issues"
   },
   "license": "MIT",
   "engines": {
@@ -39,22 +38,22 @@
   "contributes": {
     "themes": [
       {
-        "label": "Palenight Theme",
+        "label": "PaleNight Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/palenight.json"
       },
       {
-        "label": "Palenight Italic",
+        "label": "PaleNight Italic",
         "uiTheme": "vs-dark",
         "path": "./themes/palenight-italic.json"
       },
       {
-        "label": "Palenight Operator",
+        "label": "PaleNight Operator",
         "uiTheme": "vs-dark",
         "path": "./themes/palenight-operator.json"
       },
       {
-        "label": "Palenight (Mild Contrast)",
+        "label": "PaleNight (Mild Contrast)",
         "uiTheme": "vs-dark",
         "path": "./themes/palenight-mild-contrast.json"
       }
@@ -65,6 +64,6 @@
     "vsce": "^1.31.0"
   },
   "__metadata": {
-    "publisherDisplayName": "Olaolu Olawuyi"
+    "publisherDisplayName": "Swnb"
   }
 }
