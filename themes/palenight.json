@@ -354,7 +354,7 @@
       "name": "Function Parameters",
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#7986E7"
+        "foreground": "#e77979"
       }
     },
     {
@@ -382,7 +382,7 @@
         "meta.tag.html"
       ],
       "settings": {
-        "foreground": "#ff7edb"
+        "foreground": "#fb90dd"
       }
     },
     {
@@ -549,7 +549,7 @@
       "name": "Entity Name tag reference in stylesheets",
       "scope": "meta.property-list entity.name.tag.reference",
       "settings": {
-        "foreground": "#ff7edb"
+        "foreground": "#fb90dd"
       }
     },
     {
@@ -635,7 +635,7 @@
         "variable.other.readwrite.instance"
       ],
       "settings": {
-        "foreground": "#ff7edb"
+        "foreground": "#fb90dd"
       }
     },
     {
@@ -708,7 +708,7 @@
       "name": "Language Variable",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#ff7edb"
+        "foreground": "#fb90dd"
       }
     },
     {
@@ -869,7 +869,7 @@
         "entity.name.tag.custom.css"
       ],
       "settings": {
-        "foreground": "#ff7edb"
+        "foreground": "#fb90dd"
       }
     },
     {
@@ -881,7 +881,7 @@
         "entity.name.tag.wildcard.sass"
       ],
       "settings": {
-        "foreground": "#ff7edb"
+        "foreground": "#fb90dd"
       }
     },
     {
@@ -1084,7 +1084,7 @@
       "name": "JavaScript Variable Parameter Function",
       "scope": "variable.parameter.function.js",
       "settings": {
-        "foreground": "#7986E7"
+        "foreground": "#e77979"
       }
     },
     {
@@ -1202,7 +1202,7 @@
       "name": "LESS Tag names",
       "scope": "entity.name.tag.less",
       "settings": {
-        "foreground": "#ff7edb"
+        "foreground": "#fb90dd"
       }
     },
     {
@@ -1321,7 +1321,7 @@
         "punctuation.definition.metadata.markdown"
       ],
       "settings": {
-        "foreground": "#ff7edb"
+        "foreground": "#fb90dd"
       }
     },
     {
@@ -1389,7 +1389,7 @@
         "meta.function-call.arguments.python"
       ],
       "settings": {
-        "foreground": "#7986E7"
+        "foreground": "#e77979"
       }
     },
     {
@@ -1472,7 +1472,7 @@
         "entity.name.tag.sass"
       ],
       "settings": {
-        "foreground": "#ff7edb"
+        "foreground": "#fb90dd"
       }
     },
     {
@@ -1586,7 +1586,7 @@
       "name": "handlebars enitity attribute values",
       "scope": "entity.other.attribute-value.handlebars variable.parameter.handlebars",
       "settings": {
-        "foreground": "#7986E7"
+        "foreground": "#e77979"
       }
     },
     {
