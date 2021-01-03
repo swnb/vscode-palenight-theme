@@ -65,7 +65,7 @@
     "statusBar.border": "#00000060",
     "statusBar.background": "#1B1E2B",
     "statusBar.foreground": "#676E95",
-    "statusBar.debuggingBackground": "#C792EA",
+    "statusBar.debuggingBackground": "#78ccf0",
     "statusBar.debuggingForeground": "#ffffff",
     "statusBarItem.hoverBackground": "#676E9520",
     "statusBarItem.remoteForeground": "#000000",
@@ -109,7 +109,7 @@
     "terminal.ansiBlue": "#82AAFF",
     "terminal.ansiCyan": "#89DDFF",
     "terminal.ansiGreen": "#C3E88D",
-    "terminal.ansiMagenta": "#C792EA",
+    "terminal.ansiMagenta": "#78ccf0",
     "terminal.ansiRed": "#FF5370",
     "terminal.ansiYellow": "#FFCB6B",
     "terminal.ansiBrightWhite": "#ffffff",
@@ -117,7 +117,7 @@
     "terminal.ansiBrightBlue": "#82AAFF",
     "terminal.ansiBrightCyan": "#89DDFF",
     "terminal.ansiBrightGreen": "#C3E88D",
-    "terminal.ansiBrightMagenta": "#C792EA",
+    "terminal.ansiBrightMagenta": "#78ccf0",
     "terminal.ansiBrightRed": "#FF5370",
     "terminal.ansiBrightYellow": "#FFCB6B",
     "terminalCursor.foreground": "#FFCB6B",
@@ -308,7 +308,7 @@
         "keyword"
       ],
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#78ccf0"
       }
     },
     {
@@ -323,7 +323,7 @@
         "meta.class meta.method.declaration meta.var.expr storage.type.js"
       ],
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#78ccf0"
       }
     },
     {
@@ -460,14 +460,14 @@
       "name": "Keyword Operator Relational",
       "scope": "keyword.operator.relational",
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#78ccf0"
       }
     },
     {
       "name": "Keyword Operator Assignment",
       "scope": "keyword.operator.assignment",
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#78ccf0"
       }
     },
     {
@@ -502,7 +502,7 @@
       "name": "Meta Delimiter Period",
       "scope": "meta.delimiter.period",
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#78ccf0"
       }
     },
     {
@@ -577,7 +577,7 @@
       "name": "Meta Selector",
       "scope": "meta.selector",
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#78ccf0"
       }
     },
     {
@@ -601,7 +601,7 @@
         "meta.tag.sgml.doctype"
       ],
       "settings": {
-        "foreground": "#c792ea",
+        "foreground": "#78ccf0",
         "fontStyle": "italic"
       }
     },
@@ -623,7 +623,7 @@
       "name": "Keyword Operator Logical",
       "scope": "keyword.operator.logical",
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#78ccf0"
       }
     },
     {
@@ -659,7 +659,7 @@
       "name": "Keyword Operator Comparison",
       "scope": "keyword.operator.comparison",
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#78ccf0"
       }
     },
     {
@@ -789,7 +789,7 @@
       "name": "Italics",
       "scope": "italic",
       "settings": {
-        "foreground": "#c792ea",
+        "foreground": "#78ccf0",
         "fontStyle": "italic"
       }
     },
@@ -980,7 +980,7 @@
       "name": "Elixir Binary Punctuations",
       "scope": "source.elixir .punctuation.binary.elixir",
       "settings": {
-        "foreground": "#c792ea"
+        "foreground": "#78ccf0"
       }
     },
     {
@@ -1015,7 +1015,7 @@
       "name": "HTML Doctype",
       "scope": "meta.tag.sgml.doctype.html",
       "settings": {
-        "foreground": "#c792ea",
+        "foreground": "#78ccf0",
         "fontStyle": "italic"
       }
     },
@@ -1065,7 +1065,7 @@
         "variable.other.phpdoc"
       ],
       "settings": {
-        "foreground": "#78ccf0"
+        "foreground": "#d18fe6"
       }
     },
     {
@@ -1223,7 +1223,7 @@
       "name": "Markup Italics",
       "scope": "markup.italic",
       "settings": {
-        "foreground": "#c792ea",
+        "foreground": "#78ccf0",
         "fontStyle": "italic"
       }
     },
@@ -1502,7 +1502,7 @@
         "entity.name.type.tsx"
       ],
       "settings": {
-        "foreground": "#78ccf0"
+        "foreground": "#d18fe6"
       }
     },
     {
