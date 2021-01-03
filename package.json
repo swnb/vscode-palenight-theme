@@ -41,21 +41,6 @@
         "label": "PaleNight Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/palenight.json"
-      },
-      {
-        "label": "PaleNight Italic",
-        "uiTheme": "vs-dark",
-        "path": "./themes/palenight-italic.json"
-      },
-      {
-        "label": "PaleNight Operator",
-        "uiTheme": "vs-dark",
-        "path": "./themes/palenight-operator.json"
-      },
-      {
-        "label": "PaleNight (Mild Contrast)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/palenight-mild-contrast.json"
       }
     ]
   },
