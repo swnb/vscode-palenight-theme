@@ -382,7 +382,7 @@
         "meta.tag.html"
       ],
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#ff7edb"
       }
     },
     {
@@ -549,7 +549,7 @@
       "name": "Entity Name tag reference in stylesheets",
       "scope": "meta.property-list entity.name.tag.reference",
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#ff7edb"
       }
     },
     {
@@ -635,7 +635,7 @@
         "variable.other.readwrite.instance"
       ],
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#ff7edb"
       }
     },
     {
@@ -708,7 +708,7 @@
       "name": "Language Variable",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#ff7edb"
       }
     },
     {
@@ -869,7 +869,7 @@
         "entity.name.tag.custom.css"
       ],
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#ff7edb"
       }
     },
     {
@@ -881,7 +881,7 @@
         "entity.name.tag.wildcard.sass"
       ],
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#ff7edb"
       }
     },
     {
@@ -1202,7 +1202,7 @@
       "name": "LESS Tag names",
       "scope": "entity.name.tag.less",
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#ff7edb"
       }
     },
     {
@@ -1321,7 +1321,7 @@
         "punctuation.definition.metadata.markdown"
       ],
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#ff7edb"
       }
     },
     {
@@ -1472,7 +1472,7 @@
         "entity.name.tag.sass"
       ],
       "settings": {
-        "foreground": "#ff5572"
+        "foreground": "#ff7edb"
       }
     },
     {
