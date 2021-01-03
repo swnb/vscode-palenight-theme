@@ -87,7 +87,7 @@
     "sideBarSectionHeader.background": "#1B1E2B",
     "sideBarSectionHeader.border": "#00000060",
     "input.background": "#333747",
-    "input.foreground": "#EEFFFF",
+    "input.foreground": "#e1bdec",
     "input.placeholderForeground": "#9cb3f560",
     "input.border": "#FFFFFF10",
     "inputValidation.errorBorder": "#FF537050",
@@ -291,7 +291,7 @@
       "name": "Comma in functions",
       "scope": "meta.function punctuation.separator.comma",
       "settings": {
-        "foreground": "#eeffff"
+        "foreground": "#e1bdec"
       }
     },
     {
@@ -1055,7 +1055,7 @@
         "entity.name.type.instance.phpdoc"
       ],
       "settings": {
-        "foreground": "#eeffff"
+        "foreground": "#e1bdec"
       }
     },
     {
@@ -1522,7 +1522,7 @@
         "meta.type.parameters.tsx entity.name.type"
       ],
       "settings": {
-        "foreground": "#eeffff"
+        "foreground": "#e1bdec"
       }
     },
     {
