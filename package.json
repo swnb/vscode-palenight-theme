@@ -48,6 +48,7 @@
     "nodemon": "^1.12.1",
     "vsce": "^1.31.0"
   },
+  "icon": "./logo.png",
   "__metadata": {
     "publisherDisplayName": "Swnb"
   }
