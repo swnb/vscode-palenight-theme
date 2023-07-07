@@ -46,6 +46,7 @@
     "editorGutter.deletedBackground": "#FF537060",
     "editor.background": "#292D3E",
     "editor.foreground": "#9cb3f5",
+    "editorInlayHint.typeForeground": "#676e95",
     "editor.lineHighlightBackground": "#00000050",
     "editor.selectionBackground": "#717CB450",
     "editor.selectionHighlightBackground": "#FFCC0020",
